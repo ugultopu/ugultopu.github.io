@@ -1,3 +1,6 @@
+---
+title: Utku Gultopu
+---
 # Hello 👋 My name is Utku
 Welcome to my website. I'm a full-stack web developer interested in all things web; particularly React, TypeScript, offline-first (local-first) web apps and open source. I've built this page to express myself and host my future blog. It is a statically generated website (SSG) based on a Markdown file.
 
